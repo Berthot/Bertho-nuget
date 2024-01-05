@@ -1,4 +1,4 @@
-﻿namespace BerthoPackage;
+﻿namespace Package.Domain;
 
 public static class ExtensionUtils
 {

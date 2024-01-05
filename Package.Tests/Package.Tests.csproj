@@ -7,6 +7,7 @@
 
         <IsPackable>false</IsPackable>
         <IsTestProject>true</IsTestProject>
+        <RootNamespace>BerthoPackage.Tests</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
@@ -18,7 +19,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\BerthoPackage\BerthoPackage.csproj" />
+      <ProjectReference Include="..\Package.Domain\Package.Domain.csproj" />
     </ItemGroup>
 
 </Project>

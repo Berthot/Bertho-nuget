@@ -1,3 +1,5 @@
+using Package.Domain;
+
 namespace BerthoPackage.Tests;
 
 public class ExtensionUtilsTests

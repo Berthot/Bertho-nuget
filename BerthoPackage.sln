@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerthoPackage", "BerthoPackage\BerthoPackage.csproj", "{BE38D746-197D-48E5-8451-0E46C03980B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Package.Domain", "Package.Domain\Package.Domain.csproj", "{BE38D746-197D-48E5-8451-0E46C03980B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerthoPackage.Tests", "BerthoPackage.Tests\BerthoPackage.Tests.csproj", "{36E389DE-EFE2-4D16-9479-962D9158CAF5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Package.Tests", "Package.Tests\Package.Tests.csproj", "{36E389DE-EFE2-4D16-9479-962D9158CAF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
