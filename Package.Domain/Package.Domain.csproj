@@ -4,7 +4,10 @@
         <TargetFramework>net8.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <Version>1.0.0-alpha</Version>
+        <PackageId>BerthoT-001</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Matheus Bertho Tavares</Authors>
+        <Product>BerthoPackage</Product>
     </PropertyGroup>
     <PropertyGroup>
         <RepositoryUrl>https://github.com/Berthot/Bertho-nuget</RepositoryUrl>
